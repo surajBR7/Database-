@@ -99,10 +99,10 @@ Execution Time:
 100 MB File: 0.0434 seconds
 
 
-Files
-## main.py: The main script to execute queries and measure execution time.
-## plot.py: A script to generate plots comparing query execution times across different file sizes.
-## datasets/: Directory containing the CSV files (1 MB, 10 MB, and 100 MB).
+## Files
+main.py: The main script to execute queries and measure execution time.
+plot.py: A script to generate plots comparing query execution times across different file sizes.
+datasets/: Directory containing the CSV files (1 MB, 10 MB, and 100 MB).
 
-Usage
+## Usage
 Run the main.py file to execute all queries and measure the execution time for each file size. The results will be printed in the terminal, and graphs will be generated to visualize the execution times.
