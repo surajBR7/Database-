@@ -1,1 +1,1 @@
-# The Readme file is in the database design folder
+# The Readme file is in the database project folder
